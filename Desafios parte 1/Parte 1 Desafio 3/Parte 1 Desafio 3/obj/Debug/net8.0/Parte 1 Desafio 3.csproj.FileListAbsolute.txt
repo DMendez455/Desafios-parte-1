@@ -1,0 +1,14 @@
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\bin\Debug\net8.0\Parte 1 Desafio 3.exe
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\bin\Debug\net8.0\Parte 1 Desafio 3.deps.json
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\bin\Debug\net8.0\Parte 1 Desafio 3.runtimeconfig.json
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\bin\Debug\net8.0\Parte 1 Desafio 3.dll
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\bin\Debug\net8.0\Parte 1 Desafio 3.pdb
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\obj\Debug\net8.0\Parte 1 Desafio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\obj\Debug\net8.0\Parte 1 Desafio 3.AssemblyInfoInputs.cache
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\obj\Debug\net8.0\Parte 1 Desafio 3.AssemblyInfo.cs
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\obj\Debug\net8.0\Parte 1 Desafio 3.csproj.CoreCompileInputs.cache
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\obj\Debug\net8.0\Parte 1 Desafio 3.dll
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\obj\Debug\net8.0\refint\Parte 1 Desafio 3.dll
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\obj\Debug\net8.0\Parte 1 Desafio 3.pdb
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\obj\Debug\net8.0\Parte 1 Desafio 3.genruntimeconfig.cache
+C:\Users\diejo\OneDrive\Desktop\Parte 1 Desafio 3\Parte 1 Desafio 3\obj\Debug\net8.0\ref\Parte 1 Desafio 3.dll
